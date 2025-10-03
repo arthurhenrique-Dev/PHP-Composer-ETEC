@@ -1,0 +1,17 @@
+{
+    "name": "eteczl/projetocomposer",
+    "description": "projeto pra mostrar o composer do php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Eteczl\\Projetocomposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arthur",
+            "email": "henriquearthur.dev@gmail.com"
+        }
+    ],
+    "require": {}
+}
